@@ -16,7 +16,7 @@ public class Principal {
 
         Caneta c1 = new Caneta("BIC","Preto",0.5f,true);
         c1.status();
-        Caneta c2 = new Caneta("kkk","Amarela",);
+        Caneta c2 = new Caneta("kkk","Amarela",0.5f,true);
 
     }
 }
